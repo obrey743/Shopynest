@@ -8,8 +8,6 @@
 - **Product Catalog**: Browse through a wide range of products categorized for easy access.
 - **Search Functionality**: Quickly find products using the search bar.
 - **Shopping Cart**: Add products to your cart and review your selections before purchasing.
-- **Order Tracking**: Keep track of your orders from purchase to delivery.
-- **Payment Gateway Integration**: Secure payment options to facilitate smooth transactions.
 - **Wishlist**: Save your favorite products for later.
 - **Notifications**: Receive updates on your orders, offers, and more.
 

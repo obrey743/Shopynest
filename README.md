@@ -12,18 +12,7 @@
 - **Notifications**: Receive updates on your orders, offers, and more.
 
 ## Getting Started
-
-### Prerequisites
-
-To get a local copy up and running, you will need the following:
-
-- **Node.js** (version 14.x or above)
-- **npm** (version 6.x or above)
-- **MongoDB** (if using a local database)
-
-### Installation
-
-1. **Clone the repository:**
+**Clone the repository:**
 
    ```bash
    git clone https://github.com/obrey743/shopynest.git

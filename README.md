@@ -13,8 +13,6 @@
 
 ## Getting Started
 
-### Prerequisites
-
 To get a local copy up and running, you will need the following:
 
 - **Node.js** (version 14.x or above)
